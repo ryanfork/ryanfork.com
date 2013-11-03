@@ -14,6 +14,7 @@
     <!-- Add custom CSS here -->
     <link href="css/modern-business.css" rel="stylesheet">
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="icon" type="image/png" href="http://www.ryanfork.com/icon.png">
   </head>
 
   <body>
