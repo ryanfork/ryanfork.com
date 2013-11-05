@@ -28,7 +28,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.html">ryanfork.com</a>
+          <a class="navbar-brand" href="index.html">Ryan Fork</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
